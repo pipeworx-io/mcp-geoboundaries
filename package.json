@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-geoboundaries",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "geoBoundaries MCP — open database of political administrative boundaries.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c683a7e605548691fe2b0ba923df4c9e14804f25ae2a1973d9e2ce5f584fb1e0",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-862b9ee347065b3f8269b15a0d82036a170139683d275a704dba720244797f35",
+    "sourceCommit": "91681e9a4a137fa0051d58e32f38c64b6334af5c"
   }
 }
